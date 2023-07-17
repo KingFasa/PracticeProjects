@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindPiNthDigit", "FindPiNthDigit\FindPiNthDigit.csproj", "{003BFCC4-E816-4C18-A1E3-E2AB3861475D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{003BFCC4-E816-4C18-A1E3-E2AB3861475D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{003BFCC4-E816-4C18-A1E3-E2AB3861475D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{003BFCC4-E816-4C18-A1E3-E2AB3861475D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{003BFCC4-E816-4C18-A1E3-E2AB3861475D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {089BD2D8-68BB-4AFA-B719-3D195089CC9A}
+	EndGlobalSection
+EndGlobal

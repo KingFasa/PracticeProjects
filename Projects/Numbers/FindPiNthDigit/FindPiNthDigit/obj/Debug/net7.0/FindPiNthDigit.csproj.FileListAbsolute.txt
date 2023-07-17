@@ -1,0 +1,15 @@
+C:\Users\jamie\Source\Repos\Projects\Projects\Numbers\FindPiNthDigit\FindPiNthDigit\bin\Debug\net7.0\FindPiNthDigit.exe
+C:\Users\jamie\Source\Repos\Projects\Projects\Numbers\FindPiNthDigit\FindPiNthDigit\bin\Debug\net7.0\FindPiNthDigit.deps.json
+C:\Users\jamie\Source\Repos\Projects\Projects\Numbers\FindPiNthDigit\FindPiNthDigit\bin\Debug\net7.0\FindPiNthDigit.runtimeconfig.json
+C:\Users\jamie\Source\Repos\Projects\Projects\Numbers\FindPiNthDigit\FindPiNthDigit\bin\Debug\net7.0\FindPiNthDigit.dll
+C:\Users\jamie\Source\Repos\Projects\Projects\Numbers\FindPiNthDigit\FindPiNthDigit\bin\Debug\net7.0\FindPiNthDigit.pdb
+C:\Users\jamie\Source\Repos\Projects\Projects\Numbers\FindPiNthDigit\FindPiNthDigit\obj\Debug\net7.0\FindPiNthDigit.csproj.AssemblyReference.cache
+C:\Users\jamie\Source\Repos\Projects\Projects\Numbers\FindPiNthDigit\FindPiNthDigit\obj\Debug\net7.0\FindPiNthDigit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jamie\Source\Repos\Projects\Projects\Numbers\FindPiNthDigit\FindPiNthDigit\obj\Debug\net7.0\FindPiNthDigit.AssemblyInfoInputs.cache
+C:\Users\jamie\Source\Repos\Projects\Projects\Numbers\FindPiNthDigit\FindPiNthDigit\obj\Debug\net7.0\FindPiNthDigit.AssemblyInfo.cs
+C:\Users\jamie\Source\Repos\Projects\Projects\Numbers\FindPiNthDigit\FindPiNthDigit\obj\Debug\net7.0\FindPiNthDigit.csproj.CoreCompileInputs.cache
+C:\Users\jamie\Source\Repos\Projects\Projects\Numbers\FindPiNthDigit\FindPiNthDigit\obj\Debug\net7.0\FindPiNthDigit.dll
+C:\Users\jamie\Source\Repos\Projects\Projects\Numbers\FindPiNthDigit\FindPiNthDigit\obj\Debug\net7.0\refint\FindPiNthDigit.dll
+C:\Users\jamie\Source\Repos\Projects\Projects\Numbers\FindPiNthDigit\FindPiNthDigit\obj\Debug\net7.0\FindPiNthDigit.pdb
+C:\Users\jamie\Source\Repos\Projects\Projects\Numbers\FindPiNthDigit\FindPiNthDigit\obj\Debug\net7.0\FindPiNthDigit.genruntimeconfig.cache
+C:\Users\jamie\Source\Repos\Projects\Projects\Numbers\FindPiNthDigit\FindPiNthDigit\obj\Debug\net7.0\ref\FindPiNthDigit.dll

@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jamie\\source\\repos\\Projects\\Projects\\Numbers\\FindPiNthDigit\\FindPiNthDigit\\FindPiNthDigit.csproj": {}
+    "C:\\Users\\jamie\\Source\\Repos\\Projects\\Projects\\Numbers\\FindPiNthDigit\\FindPiNthDigit\\FindPiNthDigit.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jamie\\source\\repos\\Projects\\Projects\\Numbers\\FindPiNthDigit\\FindPiNthDigit\\FindPiNthDigit.csproj": {
+    "C:\\Users\\jamie\\Source\\Repos\\Projects\\Projects\\Numbers\\FindPiNthDigit\\FindPiNthDigit\\FindPiNthDigit.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jamie\\source\\repos\\Projects\\Projects\\Numbers\\FindPiNthDigit\\FindPiNthDigit\\FindPiNthDigit.csproj",
+        "projectUniqueName": "C:\\Users\\jamie\\Source\\Repos\\Projects\\Projects\\Numbers\\FindPiNthDigit\\FindPiNthDigit\\FindPiNthDigit.csproj",
         "projectName": "FindPiNthDigit",
-        "projectPath": "C:\\Users\\jamie\\source\\repos\\Projects\\Projects\\Numbers\\FindPiNthDigit\\FindPiNthDigit\\FindPiNthDigit.csproj",
+        "projectPath": "C:\\Users\\jamie\\Source\\Repos\\Projects\\Projects\\Numbers\\FindPiNthDigit\\FindPiNthDigit\\FindPiNthDigit.csproj",
         "packagesPath": "C:\\Users\\jamie\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\jamie\\source\\repos\\Projects\\Projects\\Numbers\\FindPiNthDigit\\FindPiNthDigit\\obj\\",
         "projectStyle": "PackageReference",

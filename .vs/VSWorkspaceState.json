@@ -2,8 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\Projects",
-    "\\Projects\\Numbers"
+    "\\Projects\\Numbers",
+    "\\Projects\\Numbers\\FindPiNthDigit",
+    "\\Projects\\Numbers\\FindPiNthDigit\\FindPiNthDigit"
   ],
-  "SelectedNode": "\\Projects\\Numbers",
+  "SelectedNode": "\\Projects\\Numbers\\FindPiNthDigit\\FindPiNthDigit\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
